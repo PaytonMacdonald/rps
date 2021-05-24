@@ -1,0 +1,16 @@
+C:\source\codeworks\Projects-classwork\week-9\rps\bin\Debug\net5.0\rps.exe
+C:\source\codeworks\Projects-classwork\week-9\rps\bin\Debug\net5.0\rps.deps.json
+C:\source\codeworks\Projects-classwork\week-9\rps\bin\Debug\net5.0\rps.runtimeconfig.json
+C:\source\codeworks\Projects-classwork\week-9\rps\bin\Debug\net5.0\rps.runtimeconfig.dev.json
+C:\source\codeworks\Projects-classwork\week-9\rps\bin\Debug\net5.0\rps.dll
+C:\source\codeworks\Projects-classwork\week-9\rps\bin\Debug\net5.0\ref\rps.dll
+C:\source\codeworks\Projects-classwork\week-9\rps\bin\Debug\net5.0\rps.pdb
+C:\source\codeworks\Projects-classwork\week-9\rps\obj\Debug\net5.0\rps.csprojAssemblyReference.cache
+C:\source\codeworks\Projects-classwork\week-9\rps\obj\Debug\net5.0\rps.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\Projects-classwork\week-9\rps\obj\Debug\net5.0\rps.AssemblyInfoInputs.cache
+C:\source\codeworks\Projects-classwork\week-9\rps\obj\Debug\net5.0\rps.AssemblyInfo.cs
+C:\source\codeworks\Projects-classwork\week-9\rps\obj\Debug\net5.0\rps.csproj.CoreCompileInputs.cache
+C:\source\codeworks\Projects-classwork\week-9\rps\obj\Debug\net5.0\rps.dll
+C:\source\codeworks\Projects-classwork\week-9\rps\obj\Debug\net5.0\ref\rps.dll
+C:\source\codeworks\Projects-classwork\week-9\rps\obj\Debug\net5.0\rps.pdb
+C:\source\codeworks\Projects-classwork\week-9\rps\obj\Debug\net5.0\rps.genruntimeconfig.cache

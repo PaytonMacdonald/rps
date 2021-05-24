@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\payto\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\payto\\.nuget\\packages"
+    ]
+  }
+}
